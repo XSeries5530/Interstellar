@@ -2,7 +2,7 @@ const config = {
   challenge: true, // Set to true if you want to enable password protection.
   users: {
     // You can add multiple users by doing username: 'password'.
-    xseries553: "yamotha",
+    xseries553: "placeholder",
     ShadowXR: "pana6531",
     backdoor: "password"
   },
